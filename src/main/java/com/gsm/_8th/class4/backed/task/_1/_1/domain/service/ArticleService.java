@@ -1,11 +1,11 @@
-package com.gsm._8th.class4.backed.task._1._1.global.service;
+package com.gsm._8th.class4.backed.task._1._1.domain.service;
 
 
-import com.gsm._8th.class4.backed.task._1._1.global.dto.ArticleRequestDto;
-import com.gsm._8th.class4.backed.task._1._1.global.dto.ArticleResponseDto;
-import com.gsm._8th.class4.backed.task._1._1.global.dto.ArticleUpdateRequestDto;
-import com.gsm._8th.class4.backed.task._1._1.global.entity.Article;
-import com.gsm._8th.class4.backed.task._1._1.global.repository.ArticleRepository;
+import com.gsm._8th.class4.backed.task._1._1.domain.dto.ArticleRequestDto;
+import com.gsm._8th.class4.backed.task._1._1.domain.dto.ArticleResponseDto;
+import com.gsm._8th.class4.backed.task._1._1.domain.dto.ArticleUpdateRequestDto;
+import com.gsm._8th.class4.backed.task._1._1.domain.entity.Article;
+import com.gsm._8th.class4.backed.task._1._1.domain.repository.ArticleRepository;
 import org.springframework.transaction.annotation.Transactional;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

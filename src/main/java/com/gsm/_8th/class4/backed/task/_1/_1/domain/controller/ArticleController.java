@@ -1,9 +1,9 @@
-package com.gsm._8th.class4.backed.task._1._1.global.controller;
+package com.gsm._8th.class4.backed.task._1._1.domain.controller;
 
-import com.gsm._8th.class4.backed.task._1._1.global.dto.ArticleRequestDto;
-import com.gsm._8th.class4.backed.task._1._1.global.dto.ArticleResponseDto;
-import com.gsm._8th.class4.backed.task._1._1.global.dto.ArticleUpdateRequestDto;
-import com.gsm._8th.class4.backed.task._1._1.global.service.ArticleService;
+import com.gsm._8th.class4.backed.task._1._1.domain.dto.ArticleRequestDto;
+import com.gsm._8th.class4.backed.task._1._1.domain.dto.ArticleResponseDto;
+import com.gsm._8th.class4.backed.task._1._1.domain.dto.ArticleUpdateRequestDto;
+import com.gsm._8th.class4.backed.task._1._1.domain.service.ArticleService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

@@ -1,7 +1,7 @@
-package com.gsm._8th.class4.backed.task._1._1.global.dto;
+package com.gsm._8th.class4.backed.task._1._1.domain.dto;
 
 
-import com.gsm._8th.class4.backed.task._1._1.global.entity.Article;
+import com.gsm._8th.class4.backed.task._1._1.domain.entity.Article;
 import lombok.Getter;
 
 import java.time.LocalDateTime;

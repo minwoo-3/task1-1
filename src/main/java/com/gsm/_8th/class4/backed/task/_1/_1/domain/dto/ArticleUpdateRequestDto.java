@@ -1,4 +1,4 @@
-package com.gsm._8th.class4.backed.task._1._1.global.dto;
+package com.gsm._8th.class4.backed.task._1._1.domain.dto;
 
 
 import lombok.Getter;
